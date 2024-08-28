@@ -1,4 +1,4 @@
-# Weather_Correlation_to-_Deer_Hunting
+# Weather_Correlation_to_Deer_Hunting
 Created a Python web scrapper to collect weather data to compare it to deer hunting success rates over the past 25 years
 
 I developed a comprehensive data analysis project focused on understanding the impact of weather conditions on deer hunting success rates. The project began with the creation of a web scraper using the Selenium package in Python to collect detailed weather data for October and November from 1999 onward. The data was cleaned and organized in Excel before being exported as CSV files for further analysis in Python.
